@@ -1,6 +1,10 @@
 # Manomotion-Portal
  Using Manomotion to play around with Portal
 
+## Example Application
+
+![Created Portal](https://github.com/ngkaizheng/Manomotion-Portal/blob/main/Demo%20Scene/Example%20Application.png)
+
  ## Demo Video
  You can download the Demo Video Here - [Demo Video](https://github.com/ngkaizheng/Manomotion-Portal/blob/main/Demo%20Video/Simple%20Demo%20Video.mp4)
 
