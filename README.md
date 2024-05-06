@@ -1,6 +1,40 @@
 # Manomotion-Portal
  Using Manomotion to play around with Portal
 
+ ## How to Play:
+
+1. **Hand Tracking:**
+   - Place your hand in front of your device camera. The skeleton of the hand displayed indicates successful detection.
+
+2. **Character Movement:**
+   - Use the following buttons to move the character:
+     - Button Left: Move left
+     - Button Right: Move right
+     - Button Forward: Move forward
+     - Button Backward: Move backward
+
+3. **Checkboxes:**
+   - **Generating Portal:**
+     - Enable to start generating a portal.
+   - **Blue Portal:**
+     - Enable to create a blue portal. If disabled, the generated portal will be yellow.
+   - **Generating Object:**
+     - Enable to allow clicking to generate an object.
+
+4. **Object Interaction:**
+   - **Pick:**
+     - Use this action to pick up an object.
+   - **Drop:**
+     - Use this action to release the held object.
+
+---
+
+## Rules:
+
+- Only one blue portal and one yellow portal can exist simultaneously.
+- If more than one blue portal or yellow portal is created, the previous one will be replaced by the new one.
+
+
 ## Example Application
 
 ![Created Portal](https://github.com/ngkaizheng/Manomotion-Portal/blob/main/Demo%20Scene/Example%20Application.png)
