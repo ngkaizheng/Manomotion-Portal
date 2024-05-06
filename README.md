@@ -26,7 +26,8 @@
      - Use this action to pick up an object.
    - **Drop:**
      - Use this action to release the held object.
-
+   - **Click:**
+     - Use this action to generate an object by clicking.
 ---
 
 ## Rules:
